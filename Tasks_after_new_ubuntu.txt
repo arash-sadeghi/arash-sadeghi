@@ -1,3 +1,5 @@
+sudo apt install htop 
+no screen time out: setting -> screen lock
 sudo apt install tmux
 install team viewer
 sudo apt install vim-gtk3
@@ -29,5 +31,13 @@ ros noetic installation: http://wiki.ros.org/noetic/Installation/Ubuntu
   sudo apt install python3-rosdep
   sudo rosdep init
   rosdep update
+  mkdir -p ~/catkin_ws/src
+  cd ~/catkin_ws/
+  catkin_make
  
-
+lib/systemd/journald starts to consume memory and cpu. solve it by https://askubuntu.com/questions/906251/systemd-journald-high-cpu-usage
+  sudo vim /etc/default/grub -->  GRUB_CMDLINE_LINUX_DEFAULT  --> pci=nomsi
+  sudo update-grub
+  reboot
+  rm /var/log/syslog
+  rm /var/log/kern.log
