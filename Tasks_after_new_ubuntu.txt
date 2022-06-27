@@ -41,3 +41,7 @@ lib/systemd/journald starts to consume memory and cpu. solve it by https://askub
   reboot
   rm /var/log/syslog
   rm /var/log/kern.log
+Dark theme UI --> appearance
+sudo snap install spotify
+sudo snap install vlc
+install dropbox
