@@ -1,0 +1,4 @@
+tmux new -s Test01
+tmux attach -t Test01
+tmux kill-server
+echo 'this is the second line' >> append_example (>> is for appending and > is for overwriting)

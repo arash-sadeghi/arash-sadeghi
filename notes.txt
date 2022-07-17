@@ -1,0 +1,6 @@
+Tmux Resurect:
+  https://nickjanetakis.com/blog/save-and-restore-tmux-sessions-across-reboots-with-tmux-resurrect
+  you shoud use: 
+    tmux show -g | sed 's/^/set-option -g /' > ~/.tmux.conf
+  Otherwise wierd characters screw the commands.
+  prefix + I takes few seconds be patient
