@@ -46,3 +46,4 @@ sudo snap install spotify
 sudo snap install vlc
 install dropbox
 install zoom
+sudo apt install kazam
