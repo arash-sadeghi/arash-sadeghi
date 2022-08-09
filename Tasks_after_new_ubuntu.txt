@@ -45,4 +45,9 @@ Dark theme UI --> appearance
 sudo snap install spotify
 sudo snap install vlc
 install dropbox
-install zoom
+install zoom: 
+  https://support.zoom.us/hc/en-us/articles/204206269-Installing-or-updating-Zoom-on-Linux
+  sudo apt install ./zoom_amd64.deb
+sudo apt install gparted   
+sudo apt install openssh-server
+
