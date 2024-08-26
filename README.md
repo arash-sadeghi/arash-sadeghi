@@ -9,7 +9,7 @@
 
 - 👀 I’m interested in Software Development (Full Stack), Machine Learning (and generative AI), and Robotics.
 
-- 🌱 I’m currently learning **Sharpening my skills on AWS**
+- 🌱 I’m currently **Sharpening my skills on AWS**
 
 - 📫 How to reach me **https://www.linkedin.com/in/arash-s-amjadi/**
 
