@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arash-sadeghi&label=Profile%20views&color=0e75b6&style=flat" alt="arash-sadeghi" /> </p>
 
- <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arash-sadeghi" alt="arash-sadeghi" /></a> </p> -->
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arash-sadeghi" alt="arash-sadeghi" /></a> </p>
 
 
 - 👀 I’m interested in Software Development (Full Stack), Machine Learning (and generative AI), and Robotics.
@@ -74,8 +74,8 @@
 ![ARM](https://img.shields.io/badge/ARM-green?style=for-the-badge&logoColor=white)
 
 
-<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arash-sadeghi&show_icons=true&locale=en&layout=compact" alt="arash-sadeghi" /></p>-->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arash-sadeghi&show_icons=true&locale=en&layout=compact" alt="arash-sadeghi" /></p>
 
- <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arash-sadeghi&show_icons=true&locale=en" alt="arash-sadeghi" /></p>-->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arash-sadeghi&show_icons=true&locale=en" alt="arash-sadeghi" /></p>
 
- <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arash-sadeghi&" alt="arash-sadeghi" /></p>-->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arash-sadeghi&" alt="arash-sadeghi" />
