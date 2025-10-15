@@ -6,13 +6,13 @@
 
 - 👀 I’m interested in Software Development (Full Stack), Machine Learning (and generative AI), and Robotics.
 
-- 🌱 I’m currently **Sharpening my skills on AWS**
+- 🌱 I’m currently **Sharpening my skills on MLflow**
 
 - 📫 How to reach me **https://www.linkedin.com/in/arash-s-amjadi/**
 
 - 📄 Know about my experiences [https://arashsadeghiamjadi.me/#/](https://arashsadeghiamjadi.me/#/)
 
-- 💞️ I’m looking to collaborate on  Software Development, Robotics, and Artificial intelligence in any field varying from finance to robotics and web Designing. 
+- 💞️ I’m looking to collaborate on Software Development, Robotics, LLMs and Artificial Intelligence in any field, varying from finance to robotics and web Designing. 
 
 ### Tech Stack:
 #### Programming Languages:
@@ -74,5 +74,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arash-sadeghi&show_icons=true&locale=en&layout=compact" alt="arash-sadeghi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arash-sadeghi&show_icons=true&locale=en" alt="arash-sadeghi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arash-sadeghi&" alt="arash-sadeghi" />
