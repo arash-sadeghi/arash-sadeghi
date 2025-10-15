@@ -4,9 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arash-sadeghi&label=Profile%20views&color=0e75b6&style=flat" alt="arash-sadeghi" /> </p>
 
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arash-sadeghi" alt="arash-sadeghi" /></a> </p>
-
-
 - 👀 I’m interested in Software Development (Full Stack), Machine Learning (and generative AI), and Robotics.
 
 - 🌱 I’m currently **Sharpening my skills on AWS**
