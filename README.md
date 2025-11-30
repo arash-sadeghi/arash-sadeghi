@@ -71,6 +71,7 @@ I am a passionate Software Engineer with a deep specialization in **Artificial I
   <a href="#"><img src="https://img.shields.io/badge/🦜%20LangChain-009688?style=for-the-badge" alt="LangChain"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Multi--Modal%20LLMs-5A3DA3?style=for-the-badge" alt="Multi-Modal LLMs"/></a>
   <a href="#"><img src="https://img.shields.io/badge/MLflow-0084B4?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/langfuse-0084B4?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/></a>
 </p>
 
 #### ☁️ Cloud & DevOps
@@ -113,7 +114,7 @@ I am a passionate Software Engineer with a deep specialization in **Artificial I
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="github-profile-trophy-red-phi.vercel.app/?username=arash-sadeghi&theme=onedark&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy2.vercel.app/?username=arash-sadeghi&theme=onedark&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   </a>
 </p>
 
