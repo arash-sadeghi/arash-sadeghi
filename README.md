@@ -119,8 +119,9 @@ I am a passionate Software Engineer with a deep specialization in **Artificial I
 </p>
 
 <p align="center">
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=arash-sadeghi&show_icons=true&locale=en&theme=tokyonight" alt="GitHub stats" /> -->
-    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arash-sadeghi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" /> -->
+    <img src="https://github-readme-stats-lyart-iota-15.vercel.app/api?username=arash-sadeghi&show_icons=true&locale=en&theme=tokyonight" alt="GitHub stats" />
     <br>
-    <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=arash-sadeghi&theme=tokyonight" alt="GitHub Streak" /> -->
+    <img src="https://github-readme-stats-lyart-iota-15.vercel.app/api/top-langs?username=arash-sadeghi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+    <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=arash-sadeghi&theme=tokyonight" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats-iota-brown.vercel.app/?user=arash-sadeghi&theme=tokyonight" alt="GitHub Streak" /> -->
 </p>
