@@ -113,13 +113,13 @@ I am a passionate Software Engineer with a deep specialization in **Artificial I
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=arash-sadeghi&theme=onedark&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+    <img src="github-profile-trophy-red-phi.vercel.app/?username=arash-sadeghi&theme=onedark&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   </a>
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=arash-sadeghi&show_icons=true&locale=en&theme=tokyonight" alt="GitHub stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arash-sadeghi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=arash-sadeghi&show_icons=true&locale=en&theme=tokyonight" alt="GitHub stats" /> -->
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arash-sadeghi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" /> -->
     <br>
     <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=arash-sadeghi&theme=tokyonight" alt="GitHub Streak" /> -->
 </p>
